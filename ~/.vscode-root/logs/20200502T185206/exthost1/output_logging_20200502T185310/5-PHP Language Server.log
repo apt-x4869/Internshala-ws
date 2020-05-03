@@ -1,0 +1,9 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 6:53:11 pm] 1 files total
+[Info  - 6:53:11 pm] Indexing project for definitions and static references
+Parsing file:///root/Internshala%20WebD/index.php
+[Info  - 6:53:11 pm] Indexing project for dynamic references
+[Info  - 6:53:11 pm] 0 Packages
+[Info  - 6:53:11 pm] All 1 PHP files parsed in 0 seconds. 170 MiB allocated.

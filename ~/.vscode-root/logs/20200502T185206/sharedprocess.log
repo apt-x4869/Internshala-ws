@@ -1,0 +1,3 @@
+[2020-05-02 18:52:12.480] [sharedprocess] [info] main {"machineId":"97fce7877366d90545ca7b3e8f184ac56390ae8ff9eee225886600595d77cc38","windowId":2}
+[2020-05-02 18:52:12.634] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/Internshala WebD/~/.vscode-root/User/snippets'
+[2020-05-02 18:52:52.502] [sharedprocess] [info] Starting to clean up unused language packs.
