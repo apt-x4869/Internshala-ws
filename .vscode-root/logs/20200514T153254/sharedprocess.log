@@ -1,5 +1,0 @@
-[2020-05-14 15:33:00.467] [sharedprocess] [info] main {"machineId":"0e46e649ac558822fa6f4b6923ad055d7dfc193234590794e1a3d96ff909928c","windowId":2}
-[2020-05-14 15:33:00.594] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/Internshala WebD/.vscode-root/User/snippets'
-[2020-05-14 15:33:05.947] [sharedprocess] [info] Deleted from disk ms-azuretools.vscode-docker /root/.vscode/extensions/ms-azuretools.vscode-docker-1.1.0
-[2020-05-14 15:33:07.144] [sharedprocess] [info] Deleted from disk ms-python.python /root/.vscode/extensions/ms-python.python-2020.4.76186
-[2020-05-14 15:33:40.490] [sharedprocess] [info] Starting to clean up unused language packs.
