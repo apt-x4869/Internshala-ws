@@ -1,0 +1,37 @@
+Looking for git in: git
+Using git 2.26.2 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /root/Internshala WebD
+> git status -z -u
+> git show :index.html
+> git ls-files --stage -- /root/Internshala WebD/index.html
+> git symbolic-ref --short HEAD
+> git check-ignore -v -z --stdin
+> git rev-parse tutorial
+> git rev-parse --symbolic-full-name tutorial@{u}
+fatal: no upstream configured for branch 'tutorial'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :01_Ass/index.html
+> git ls-files --stage -- /root/Internshala WebD/01_Ass/index.html
+> git cat-file -s 6a306de60aadd466fc6b1d30b312d804fc9c2b19
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tutorial
+> git rev-parse --symbolic-full-name tutorial@{u}
+fatal: no upstream configured for branch 'tutorial'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse tutorial
+> git rev-parse --symbolic-full-name tutorial@{u}
+fatal: no upstream configured for branch 'tutorial'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
